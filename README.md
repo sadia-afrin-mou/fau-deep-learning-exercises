@@ -111,10 +111,10 @@ Topics:
 
 ```text
 .
-├─ exercise0_numpy/          # Patterns & ImageGenerator (NumPy warm-up)
-├─ exercise1_nn/             # Fully connected NN framework
-├─ exercise2_cnn/            # CNN layers, initializers, advanced optimizers
-├─ exercise3_rnn/            # Regularizers, dropout, batchnorm, RNN/LSTM
-├─ exercise4_pytorch/        # PyTorch classification project (ResNet-like)
+├─ exercise0_numpy/                    # Patterns & ImageGenerator (NumPy warm-up)
+├─ exercise1_nn/                       # Fully connected NN framework
+├─ exercise2_cnn/                      # CNN layers, initializers, advanced optimizers
+├─ exercise3_rnn/                      # Regularizers, dropout, batchnorm, RNN/LSTM
+├─ exercise4_pytorch_challenge/        # PyTorch classification project (ResNet-like)
 ├─ README.md
 └─ .gitignore
