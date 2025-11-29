@@ -13,6 +13,11 @@ venv/
 .env/
 .ipynb_checkpoints/
 
+# Test caches
+.hypothesis/
+.pytest_cache/
+
+
 # IDE
 .vscode/
 .idea/
