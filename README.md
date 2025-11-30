@@ -1,17 +1,17 @@
-# FAU Deep Learning Exercises (DL E)
+# FAU Deep Learning Course Exercises
 
-This repository contains my implementations for the **Deep Learning** at  
+This repository contains implementations for the exercised of the **Deep Learning** course at  
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).  
-The course builds a small NumPy-based deep learning framework from scratch and then moves to a PyTorch-based classification project.
+The course builds a NumPy-based deep learning framework from scratch and then moves to a PyTorch-based classification project.
 
-> **Note:** The original exercise PDFs are *not* included here. This repo only contains my code solutions and minimal summaries of each task.
+> **Note:** The original exercise PDFs are *not* included here. This repo only contains the code solutions and minimal summaries of each task.
 
 ---
 
 ## Exercise Overview
 
 ### Exercise 0 – NumPy Tutorial (Array & Data Handling Warm-up)
-Focus: refreshed Python/NumPy basics and simple data pipelines. :contentReference[oaicite:0]{index=0}  
+Focus: refreshed Python/NumPy basics and simple data pipelines.  
 
 Topics:
 
@@ -28,7 +28,7 @@ Topics:
 ---
 
 ### Exercise 1 – Neural Networks (Core Feed-Forward Framework)
-Focus: basic fully-connected networks, activations, loss, and training loop. :contentReference[oaicite:1]{index=1}  
+Focus: basic fully-connected networks, activations, loss, and training loop.
 
 Topics:
 
@@ -44,7 +44,7 @@ Topics:
 ---
 
 ### Exercise 2 – Convolutional Neural Networks (CNN Building Blocks)
-Focus: convolutional architectures, initialization schemes, and advanced optimizers. :contentReference[oaicite:2]{index=2}  
+Focus: convolutional architectures, initialization schemes, and advanced optimizers.
 
 Topics:
 
@@ -63,7 +63,7 @@ Topics:
 ---
 
 ### Exercise 3 – Regularization & Recurrent Layers
-Focus: controlling overfitting and handling sequential data with RNNs. :contentReference[oaicite:3]{index=3}  
+Focus: controlling overfitting and handling sequential data with RNNs.
 
 Topics:
 
@@ -84,8 +84,8 @@ Topics:
 
 ---
 
-### Exercise 4 – PyTorch for Classification (Solar Cell Defect Detection)
-Focus: PyTorch workflow (dataset, model, trainer) and a ResNet-like architecture for a real-world classification task. :contentReference[oaicite:4]{index=4}  
+### Exercise 4 – PyTorch for Classification (Solar Cell Defect Detection Challenge)
+Focus: PyTorch workflow (dataset, model, trainer) and a ResNet-like architecture for a real-world classification task.
 
 Application: classify **cracks** and **inactive regions** on solar cell electroluminescence images.
 
